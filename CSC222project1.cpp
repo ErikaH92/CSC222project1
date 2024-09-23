@@ -7,7 +7,6 @@
 using namespace std;
 
 
-
 int main()
 {
     std::cout << "CSC222 Project1\n";
